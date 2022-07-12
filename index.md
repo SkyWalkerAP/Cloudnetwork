@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/SkyWalkerAP/Cloudnetwork.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SkyWalkerAP/Cloudnetwork.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Cloudnetwork & SkyClient**
+------------------------------------------------------------------------------------------------------------------------
+SkyClient 1.1 Survival New ! = https://www.mediafire.com/file/cauehwgkd2dvf63/SkyClient+Survival.rar/file%7C%7C
+Log = 
+SkyClientSurvival Test Version 1.1
+`- Added Discord RCP 
+`- CurseForge Support ( Soon )
+`- Ingame account switcher 
+`- Custom Loading = Not Mojang Loading 
+- Custom FPS Booster ( Not In this Version )
+------------------------------------------------------------------------------------------------------------------------
+Cloudnetwork Discord = https://discord.gg/Gh72YSFtjq
+What is Cloudnetwork = Cloudnetwork is Minecraft server Created By Skywalker . Cloud Network is a server similar to Hypixel designed for Iranians and for those who do not have a premium minecraft account to enjoy the game on a server similar to Hypixel.
+Founder = Skywalkerap
+My Friends = あ’ Parsa_jellyภ🅔Շภ#4677 - ! HypixelL0ver ⁶⁹#7983
+Owners = ! R.Z_Animationsᴼⁿⁱᵒⁿ#4629 - war_craft_ATภ🅔Շภ#3568
+If you want be a Staff ! Ticket Now ! 
+------------------------------------------------------------------------------------------------------------------------
